@@ -1,0 +1,13 @@
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\bin\Debug\netcoreapp3.1\CSharp_Variables_Exercise.exe
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\bin\Debug\netcoreapp3.1\CSharp_Variables_Exercise.deps.json
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\bin\Debug\netcoreapp3.1\CSharp_Variables_Exercise.runtimeconfig.json
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\bin\Debug\netcoreapp3.1\CSharp_Variables_Exercise.runtimeconfig.dev.json
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\bin\Debug\netcoreapp3.1\CSharp_Variables_Exercise.dll
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\bin\Debug\netcoreapp3.1\CSharp_Variables_Exercise.pdb
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\obj\Debug\netcoreapp3.1\CSharp_Variables_Exercise.csprojAssemblyReference.cache
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\obj\Debug\netcoreapp3.1\CSharp_Variables_Exercise.AssemblyInfoInputs.cache
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\obj\Debug\netcoreapp3.1\CSharp_Variables_Exercise.AssemblyInfo.cs
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\obj\Debug\netcoreapp3.1\CSharp_Variables_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\obj\Debug\netcoreapp3.1\CSharp_Variables_Exercise.dll
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\obj\Debug\netcoreapp3.1\CSharp_Variables_Exercise.pdb
+C:\Users\Stvn\Desktop\repos\CSharp_Variables_Exercise\obj\Debug\netcoreapp3.1\CSharp_Variables_Exercise.genruntimeconfig.cache
