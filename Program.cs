@@ -13,7 +13,7 @@ namespace CSharp_Variables_Exercise
             double penDiameter = 0.07;
             decimal penDepletion = 50.00m;
 
-            Console.WriteLine($"It is {havePen} that I have a pen on my desk. It is a {penDiameter}mm {inkPen} {penLetter} - {penNumber}, and it is about {penDepletion}% empty.");
+            Console.WriteLine($"It is {havePen} that I have a pen on my desk. It is a {penDiameter}mm {inkPen} {penLetter}-{penNumber}, and it is about {penDepletion}% empty.");
 
 
         }
